@@ -1,0 +1,13 @@
+{
+    "beneficiaryId": "153128895",
+    "beneficiaryName": "Vikash Kumar",
+    "sequence": 1,
+    "beneficiaryBank": "INDIA POST PAYMENT BANK",
+    "beneficiaryBankCity": "NEW DELHI",
+    "beneficiaryBranch": "CORPORATE OFFICE",
+    "beneficiaryBankIfsc": "IPOS0000001",
+    "status": "A",
+    "beneficiaryMaxLimit": "25000.00",
+    "applicationId": "FINOMER",
+    "beneficiaryType": "3"
+}

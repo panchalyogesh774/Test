@@ -1,0 +1,15 @@
+{
+  "mobileNumber": "9999888877",
+  "name": "Jay",
+  "address": "Jaipur",
+  "dateofBirth": "15-01-1999",
+  "gender": "M",
+  "idProofType": "AadhaarCard",
+  "idProofNumber": "123412341234",
+  "addressProofType": "UtilityBill",
+  "addressProofNumber": "UB987654321",
+  "customerNumber": "123456789012",
+  "walkinStatus": "Active",
+  "lastUpdateDate": "2024-01-11",
+  "walkinRefNum": "WALKIN7890123"
+}

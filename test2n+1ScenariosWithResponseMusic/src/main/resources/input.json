@@ -1,0 +1,6 @@
+{
+    "accountStatus": true,
+    "debitFreeze": true,
+    "creditFreeze": true,
+    "drcrFreeze": true 
+}

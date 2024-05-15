@@ -1,0 +1,29 @@
+{
+  "CustomerAuth": {
+      "Auth_id": "0",
+      "MobileNo": "7722846604",
+      "Otp": {},
+      "Fp_Auth": {},
+      "Aadhaar": {}
+  },
+  "AddBeneficiary": {
+      "appId": "FINOMER",
+      "customerNumber": "153155813",
+      "beneficiaryType": "2",
+      "nickName": "",
+      "beneficiaryAccount": "20323831263",
+      "beneficiaryAccountType": "10",
+      "beneficiaryName": "Upendra Singh Dhakar",
+      "beneficiaryBankIfsc": "",
+      "beneficiaryAddress1": "",
+      "beneficiaryZip": "",
+      "beneficiaryEmailId": "",
+      "beneficiaryBankMicr": null,
+      "beneficiaryMobileNumber": "9691877503",
+      "beneficiaryMaxLimit": "",
+      "beneficiaryBankCity": "",
+      "beneficiaryBankBranch": "",
+      "beneficiaryState": "",
+      "beneficiaryCity": ""
+  }
+}

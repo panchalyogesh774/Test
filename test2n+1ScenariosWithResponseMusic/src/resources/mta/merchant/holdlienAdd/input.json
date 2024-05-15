@@ -1,0 +1,9 @@
+{
+    "accountNumber": "12345678901",
+    "lienDetails": {
+      "amount": 5000,
+      "holdCodeId": "HOLD456",
+      "expiryDate": "21-08-2024",
+      "comments": "test3"
+    }
+  }

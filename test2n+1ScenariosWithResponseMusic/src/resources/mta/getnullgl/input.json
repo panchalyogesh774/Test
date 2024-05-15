@@ -1,0 +1,8 @@
+{
+    "singleCodeRequest": {
+        "flagDebitCredit": "C",
+        "tranType": "DMTIMPS2A",
+        "appId": "FINOTLR",
+        "userClass": "SYSTEMUSR4"
+    }
+}

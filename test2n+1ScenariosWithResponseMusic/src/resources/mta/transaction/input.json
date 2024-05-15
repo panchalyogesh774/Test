@@ -1,0 +1,45 @@
+{
+    "referenceNo": "334108018700",
+    "isClubbed": true,
+    "reversalFlag": true,
+    "appId": "FINOMER",
+    "isInclusive": true,
+    "acctFundTransferLegs": [
+      {
+        "beneficiaryAccountNo": "12345678901",
+        "amount": 5000,
+        "remitterMobile": "9626651957",
+        "costCenter": "asdd",
+        "accountNumber": "12345678901",
+        "transactionType": "DMTIMPSP2A",
+        "beneficiaryIfsc": "PUNB0662400",
+        "transactionComment": "FTIMPS",
+        "beneficiaryMobile": "9626651957",
+        "supportData": "SPROD#",
+        "beneficiaryRefOrMmid": "abcd",
+        "currency": "INR",
+        "remitterMmid": "abcd",
+        "remarks": "asdd",
+        "creditDebitFlag": "D"
+      },
+      {
+        "beneficiaryAccountNo": "12345678901",
+        "amount": 5000,
+        "remitterMobile": "9626651957",
+        "costCenter": "asdd",
+        "accountNumber": "12345678901",
+        "transactionType": "DMTIMPSP2A",
+        "beneficiaryIfsc": "PUNB0662400",
+        "transactionComment": "FTIMPS",
+        "beneficiaryMobile": "9626651957",
+        "supportData": "fhsdjhs",
+        "beneficiaryRefOrMmid": "abcd",
+        "currency": "INR",
+        "remitterMmid": "abcd",
+        "remarks": "addd",
+        "creditDebitFlag": "C"
+      }
+    ],
+    "valueDate": "10-11-2024",
+    "analysisFlag": true
+  }

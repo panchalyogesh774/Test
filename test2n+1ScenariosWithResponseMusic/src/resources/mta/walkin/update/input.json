@@ -1,0 +1,13 @@
+{
+  "customerNumber": "123456789",
+  "updateFields": {
+      "name": "John Doe",
+      "address": "XYZ",
+      "dateOfBirth": "1990-05-15",
+      "gender": "Male",
+      "idProofType": "Driver's License",
+      "idProofNumber": "DL123456789",
+      "addressProofType": "Utility Bill",
+      "addressProofNumber": "UB987654321"
+  }
+}

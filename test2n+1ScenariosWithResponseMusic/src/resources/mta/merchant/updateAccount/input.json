@@ -1,0 +1,9 @@
+{
+    "updateDetails": {
+      "accountStatus": true,
+      "creditFreeze": true,
+      "drcrFreeze": true,
+      "debitFreeze": true
+    },
+    "accountNumber": "12345678901"
+  }

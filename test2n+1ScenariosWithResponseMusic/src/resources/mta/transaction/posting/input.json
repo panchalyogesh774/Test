@@ -1,0 +1,48 @@
+{
+    "uniqueTransactionId": "1234567890",
+    "transCategory": "IMPS",
+    "appId": "FINOMER",
+    "iftFileId": "IFT123",
+    "referenceNo": "REF123",
+    "reversalFlag": "false",
+    "chargeOverride": "false",
+    "analysisFlag": "true",
+    "isClubbed": "false",
+    "isInclusive": "true",
+    "valueDate": "2024-03-14",
+    "initiatingBranchCode": "12345",
+    "acctFundTransferLegs": [
+        {
+            "postingAmount": "1000.00",
+            "accountNumber": "1234567890",
+            "amount": "1000.00",
+            "currency": "USD",
+            "creditDebitFlag": "C"
+        },
+        {
+            "postingAmount": "100.00",
+            "accountNumber": "9876543210",
+            "amount": "100.00",
+            "currency": "USD",
+            "creditDebitFlag": "D"
+        }
+    ],
+    "chargeLegs": [
+        {
+            "accountNumber": "1234567890",
+            "postingAmount": "10.00",
+            "transactionType": "Charge",
+            "creditDebitFlag": "D"
+        }
+    ],
+    "taxLegs": [
+        {
+            "postingPair": 1,
+            "taxLegId": "TAX001",
+            "taxType": "VAT",
+            "taxAmount": "20.00",
+            "taxGLNumber": "GL001",
+            "trantype": "TRAN1"
+        }
+    ]
+}

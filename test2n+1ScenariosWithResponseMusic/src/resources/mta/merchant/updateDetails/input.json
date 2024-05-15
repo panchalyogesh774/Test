@@ -1,0 +1,11 @@
+{
+  "accountNumber": "12345678901",
+  "updateDetails": {
+      "panNumber": "ABCDE1234F",
+      "address": "Main Street",
+      "phoneNumber": "9876543210",
+      "gstin": "GSTIN123456789",
+      "branchCode": "BR123",
+      "cifNumber": "CIF123456"
+  }
+}

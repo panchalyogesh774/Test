@@ -1,0 +1,15 @@
+{
+    "login_id": "E0001",
+    "application": "APPMITRA",
+    "org_id": "189771",
+    "credentials": [
+        {
+            "cred_data": "dn8Uu8z8AePICGqX$$TSApuU1ICe/2oPyycsbLSflwPfgyGNxL",
+            "cred_type": "PWD"
+        }
+    ],
+    "challenge_id": "45da6da310044a56b97fca57aa6134f7",
+    "additional_data": {
+        "latlong": "[10, 20]"
+    }
+}
